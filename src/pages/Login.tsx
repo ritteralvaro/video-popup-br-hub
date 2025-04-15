@@ -111,13 +111,6 @@ export default function Login() {
             </Button>
           </div>
           
-          <div className="text-center text-sm text-gray-600">
-            <p>
-              Credenciais de demonstração:<br />
-              Email: demo@exemplo.com.br<br />
-              Senha: senha123
-            </p>
-          </div>
         </form>
       </div>
     </div>
